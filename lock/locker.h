@@ -1,4 +1,4 @@
-#ifndef LOCKER_h
+#ifndef LOCKER_H
 #define LOCKER_H
 
 #include <exception>
